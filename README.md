@@ -1,4 +1,7 @@
-### Hi there 👋
+### 개발 14년 부터 시작했는데
+### 깃허브를 나도 쓸 수 있다라는 것을 안 지 2년
+### 깃허브 쓴지 1년도 안된 허접의 깃허브
+### 퉤
 
 <!--
 **goldfrosch/goldfrosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
