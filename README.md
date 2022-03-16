@@ -1,4 +1,4 @@
-### 자바 : 타입스크립트 1:1로 만들어봐야지 아 ㅋㅋ
+### 자바할줄 아는 프론트엔드 개발자였던 것
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldfrosch&show_icons=true&theme=tokyonight)
 
