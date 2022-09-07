@@ -1,4 +1,4 @@
-### 뭐
+### 풀스택 = 노예
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldfrosch&show_icons=true&theme=tokyonight)
 
