@@ -1,8 +1,6 @@
-자바가 메인인 프론트엔드 개발자
+다양한 언어를 좋아하는 프론트엔드(?) 개발자
 
-C++를 사랑할려고 노력까지는 해봤고
-
-수상할 정도로 typescript에 진심일 뻔한 사람
+사실 이젠 제가 뭐에 특화된 개발자인지는 몰라 개발 잡부를 하려합니다
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldfrosch&show_icons=true&theme=tokyonight)
 
