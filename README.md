@@ -1,6 +1,5 @@
-다양한 언어를 좋아하는 프론트엔드(?) 개발자
-
-사실 이젠 제가 뭐에 특화된 개발자인지는 몰라 개발 잡부를 하려합니다
+내가 만들고 싶은거는 만들줄 아는 개발자에서
+이제 왜 사용하고 어떤 원리로 돌아가는지 이해하는 개발자로 진화 중
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldfrosch&show_icons=true&theme=tokyonight)
 
